@@ -7794,13 +7794,15 @@
           "modelName": "sequenceTexture",
           "name": "ColliderSequence2",
           "identifier": "sequenceTexture:154908-f2cd0455-9e90-45be-992a-fc615ac51229",
-          "frameRate": 3
+          "frameRate": 3,
+          "sourceTextureIdentifier": "textureGroup:459065-a0b1c921-f146-4250-90b5-109c4eb8f556"
         },
         {
           "modelName": "sequenceTexture",
           "name": "ElementSequence1",
           "identifier": "sequenceTexture:163690-f2cd0455-9e90-45be-992a-fc615ac51229",
-          "frameRate": 3
+          "frameRate": 3,
+          "sourceTextureIdentifier": "textureGroup:460429-a0b1c921-f146-4250-90b5-109c4eb8f556"
         },
         {
           "modelName": "sequenceTexture",
@@ -7866,6 +7868,132 @@
                   "entropyOfDistribution": 3.8069334614581547,
                   "pixelsHigh": 62,
                   "pixelsWide": 131
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "textureGroup",
+          "name": "[1-2]",
+          "identifier": "textureGroup:459065-a0b1c921-f146-4250-90b5-109c4eb8f556",
+          "sequenceFramesTextureIdentifiers": [
+            "texture:459059-a0b1c921-f146-4250-90b5-109c4eb8f556",
+            "texture:459063-a0b1c921-f146-4250-90b5-109c4eb8f556"
+          ],
+          "children": [
+            {
+              "modelName": "texture",
+              "name": "6404101311_s(1)",
+              "identifier": "texture:459059-a0b1c921-f146-4250-90b5-109c4eb8f556",
+              "assetDataHash": "1dc42a8145b672333f3961f965f9e02f",
+              "assetLocator": "textures/6404101311_s(1).jpg",
+              "fileLocator": {
+                "path": "textures/6404101311_s(1).texture"
+              },
+              "height": 400,
+              "isExternalAsset": true,
+              "width": 300,
+              "children": [
+                {
+                  "modelName": "data_texture_metadata_model",
+                  "name": "data_texture_metadata_model0",
+                  "assetDataHash": "1dc42a8145b672333f3961f965f9e02f",
+                  "colorCount": 15504,
+                  "detectedAlphaChannel": "no_alpha",
+                  "detectedOriginalFormat": "jpeg",
+                  "entropyOfDistribution": 11.279658065908931,
+                  "pixelsHigh": 400,
+                  "pixelsWide": 300
+                }
+              ]
+            },
+            {
+              "modelName": "texture",
+              "name": "Coll2(1)",
+              "identifier": "texture:459063-a0b1c921-f146-4250-90b5-109c4eb8f556",
+              "assetDataHash": "6f917fd2097fbf610416c4bb7cbe945c",
+              "assetLocator": "textures/Coll2(1).png",
+              "fileLocator": {
+                "path": "textures/Coll2(1)-2.texture"
+              },
+              "height": 63,
+              "isExternalAsset": true,
+              "width": 130,
+              "children": [
+                {
+                  "modelName": "data_texture_metadata_model",
+                  "name": "data_texture_metadata_model0",
+                  "assetDataHash": "6f917fd2097fbf610416c4bb7cbe945c",
+                  "colorCount": 2553,
+                  "detectedAlphaChannel": "eight_bit_full_range",
+                  "detectedOriginalFormat": "png",
+                  "entropyOfDistribution": 5.780864760290325,
+                  "pixelsHigh": 63,
+                  "pixelsWide": 130
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "textureGroup",
+          "name": "[1-2]",
+          "identifier": "textureGroup:460429-a0b1c921-f146-4250-90b5-109c4eb8f556",
+          "sequenceFramesTextureIdentifiers": [
+            "texture:460423-a0b1c921-f146-4250-90b5-109c4eb8f556",
+            "texture:460427-a0b1c921-f146-4250-90b5-109c4eb8f556"
+          ],
+          "children": [
+            {
+              "modelName": "texture",
+              "name": "6404101311_s(2)",
+              "identifier": "texture:460423-a0b1c921-f146-4250-90b5-109c4eb8f556",
+              "assetDataHash": "1dc42a8145b672333f3961f965f9e02f",
+              "assetLocator": "textures/6404101311_s(2).jpg",
+              "fileLocator": {
+                "path": "textures/6404101311_s(2).texture"
+              },
+              "height": 400,
+              "isExternalAsset": true,
+              "width": 300,
+              "children": [
+                {
+                  "modelName": "data_texture_metadata_model",
+                  "name": "data_texture_metadata_model0",
+                  "assetDataHash": "1dc42a8145b672333f3961f965f9e02f",
+                  "colorCount": 15504,
+                  "detectedAlphaChannel": "no_alpha",
+                  "detectedOriginalFormat": "jpeg",
+                  "entropyOfDistribution": 11.279658065908931,
+                  "pixelsHigh": 400,
+                  "pixelsWide": 300
+                }
+              ]
+            },
+            {
+              "modelName": "texture",
+              "name": "palm-tree-png-30(1)",
+              "identifier": "texture:460427-a0b1c921-f146-4250-90b5-109c4eb8f556",
+              "assetDataHash": "811693f78b894434b38b95aead06feac",
+              "assetLocator": "textures/palm-tree-png-30(1).png",
+              "fileLocator": {
+                "path": "textures/palm-tree-png-30(1)-2.texture"
+              },
+              "height": 750,
+              "isExternalAsset": true,
+              "width": 516,
+              "children": [
+                {
+                  "modelName": "data_texture_metadata_model",
+                  "name": "data_texture_metadata_model0",
+                  "assetDataHash": "811693f78b894434b38b95aead06feac",
+                  "colorCount": 51960,
+                  "detectedAlphaChannel": "eight_bit_full_range",
+                  "detectedOriginalFormat": "png",
+                  "entropyOfDistribution": 4.980622031708665,
+                  "pixelsHigh": 750,
+                  "pixelsWide": 516
                 }
               ]
             }
